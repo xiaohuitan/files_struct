@@ -1,2 +1,6 @@
-# files_struct
-课后作业
+#include<stdio.h>
+
+int main()
+{
+   return 0;
+}
